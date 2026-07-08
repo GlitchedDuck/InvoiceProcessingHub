@@ -1,0 +1,142 @@
+{
+  "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e": [
+    {
+      "id": "54d3e91c-d0c9-4239-a982-c37f52ce3de5",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Approved",
+      "message": "Document was approved for ERP posting.",
+      "actor": "Phil Caldicott",
+      "createdAt": "2026-07-08T12:40:07.555Z"
+    },
+    {
+      "id": "1db5dfd6-f246-4e24-ad0d-35392599bfb7",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Fields saved",
+      "message": "Extracted field values were updated and saved.",
+      "actor": "Phil Caldicott",
+      "createdAt": "2026-07-08T12:40:05.732Z"
+    },
+    {
+      "id": "64e2fe58-b1fc-4b29-a58c-b7b87c067ff7",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Approved",
+      "message": "Document was approved for ERP posting.",
+      "actor": "Phil Caldicott",
+      "createdAt": "2026-07-08T12:39:57.120Z"
+    },
+    {
+      "id": "cc46388c-bd23-47a6-b20a-ff4145d91e65",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Processed",
+      "message": "Document advanced to Validation.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T12:39:16.825Z"
+    },
+    {
+      "id": "3bf05eb5-6333-49a8-a560-29fa18e085e5",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Processed",
+      "message": "Document advanced to Extraction.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T12:39:15.320Z"
+    },
+    {
+      "id": "df9a50fd-6916-4fd2-bd0a-e1b0bf7e4f79",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Processed",
+      "message": "Document advanced to Classification.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T12:39:13.820Z"
+    },
+    {
+      "id": "aa486352-f05d-485b-854a-34db37dd8154",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Processed",
+      "message": "Document advanced to OCR.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T12:39:12.306Z"
+    },
+    {
+      "id": "65f81f19-1058-487e-a1bf-ee25aaa80c06",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Processed",
+      "message": "Document advanced to Queued.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T12:39:10.824Z"
+    },
+    {
+      "id": "a1131933-f301-46cf-812b-6dab91f88456",
+      "documentId": "3ec8d8a4-2144-4d41-8e13-1b0eba8c820e",
+      "action": "Captured",
+      "message": "Document wordpress-pdf-invoice-plugin-sample.pdf was captured from Manual Capture.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T12:39:09.783Z"
+    }
+  ],
+  "4acb46ee-6647-4aea-93de-12b5119ed45e": [
+    {
+      "id": "e79f71de-bb43-4bff-b585-5b6964e2154d",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Approved",
+      "message": "Document was approved for ERP posting.",
+      "actor": "Phil Caldicott",
+      "createdAt": "2026-07-08T13:01:07.825Z"
+    },
+    {
+      "id": "c5962872-63d6-42d2-817f-c4a6bfe858a0",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Processed",
+      "message": "Document advanced to Validation.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T13:00:58.910Z"
+    },
+    {
+      "id": "266c552d-e780-4260-baf7-39da2dcf8ec6",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Processed",
+      "message": "Document advanced to Validation.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T13:00:57.409Z"
+    },
+    {
+      "id": "f8414e7e-1813-4135-bba7-27ea017f727d",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Processed",
+      "message": "Document advanced to Validation.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T13:00:55.920Z"
+    },
+    {
+      "id": "521cc64d-743b-4141-bab0-b79f38db3bdf",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Processed",
+      "message": "Document advanced to Validation.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T13:00:54.401Z"
+    },
+    {
+      "id": "1ab7ed0b-24af-47fd-a2c4-561f738663cb",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Processed",
+      "message": "Document advanced to Validation.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T13:00:52.905Z"
+    },
+    {
+      "id": "9f2ef333-3da0-4a22-a990-6b110a213381",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Text extraction",
+      "message": "Raw PDF text extracted using binary-pdf-fallback. 4146 words captured.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T13:00:51.858Z"
+    },
+    {
+      "id": "f2b04b29-430f-4aa1-a81b-8924004db740",
+      "documentId": "4acb46ee-6647-4aea-93de-12b5119ed45e",
+      "action": "Captured",
+      "message": "Document wordpress-pdf-invoice-plugin-sample.pdf was captured from Manual Capture.",
+      "actor": "Aperture Flow",
+      "createdAt": "2026-07-08T13:00:51.857Z"
+    }
+  ]
+}
